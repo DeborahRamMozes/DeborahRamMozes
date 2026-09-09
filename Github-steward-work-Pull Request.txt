@@ -1,0 +1,23 @@
+# ATOR Pull Request Template
+
+### What is this change?
+- [ ] Non-destructive addition
+- [ ] Deletion (requires Deletion Law)
+- [ ] Protection file
+
+### Summary
+Describe what changed and why.
+
+### If you deleted something, fill this:
+- Repository:
+- Path deleted:
+- Deletion reason:
+- Human approval: @DeborahRamMozes
+- Issue/PR reference:
+- Backup SHA:
+- Author / Reviewer:
+
+### Checks
+- [ ] Targets main via PR (no direct push)
+- [ ] No force push
+- [ ] No secrets

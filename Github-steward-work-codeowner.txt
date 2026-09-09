@@ -1,0 +1,9 @@
+# ATOR Institute - CODEOWNERS
+* @DeborahRamMozes
+/security-and-quality/ @DeborahRamMozes
+/protocols/ @DeborahRamMozes
+/docs/ @DeborahRamMozes
+/llm-observatory/ @DeborahRamMozes
+/deep-drift/ @DeborahRamMozes
+/research-logs/ @DeborahRamMozes
+/.github/ @DeborahRamMozes
